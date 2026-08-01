@@ -18,9 +18,9 @@ I promise to cherish you, to listen to you, to hold your hand through every chap
 
 You are my best friend, my soulmate, and my forever home.
 
-I ONLY LOVE YOU AARU
+With all my heart and eternal love,
 
-With all my heart and eternal love,`,
+I ONLY LOVE YOU AARU`,
   theme: "rosegold",
   musicPreset: "soothing_piano",
   customAudioUrl: "",
