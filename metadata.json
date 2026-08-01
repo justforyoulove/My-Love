@@ -1,0 +1,6 @@
+{
+  "name": "For My Love",
+  "description": "An immersive, deeply romantic personal experience for Girlfriend's Day featuring a interactive letter, 3D heart visuals, music, flower love notes, and customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
