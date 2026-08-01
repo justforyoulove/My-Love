@@ -6,6 +6,8 @@ import PasswordGate from "./components/PasswordGate";
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
-    <App />
+  <PasswordGate>
+   <App />
+  <PasswordGate>
   </StrictMode>,
 );
