@@ -8,7 +8,7 @@ interface MusicPlayerProps {
   musicPreset: 'soothing_piano' | 'gentle_acoustic' | 'romantic_strings' | 'custom';
 }
 
-const DEFAULT_BGM_URL = "https://cdn.pixabay.com/download/audio/2022/05/27/audio_1808fbf07a.mp3";
+const DEFAULT_BGM_URL = "/lolhi.mp3";
 
 export const MusicPlayer: React.FC<MusicPlayerProps> = ({
   customAudioUrl,
